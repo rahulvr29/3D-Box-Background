@@ -89,7 +89,8 @@ transform: skewX(45deg);
 
 
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 575px) {
+
 }
 
 /* Medium devices (tablets) */
