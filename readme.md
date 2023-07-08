@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-Thanks for checking out this IMAGE CAROUSEL coding project.
+Thanks for checking out this 3D Box Background coding project.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
